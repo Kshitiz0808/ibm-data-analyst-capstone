@@ -5,6 +5,8 @@ This capstone project is the final component of the **IBM Data Analyst Professio
 
 ---
 
+
+
 ---
 
 ## Key Findings
@@ -69,6 +71,11 @@ ibm-data-analyst-capstone/
 │   ├── dashboard_page2.png      # Future Technology Trends
 │   └── dashboard_page3.png      # Demographics
 └── README.md
+```
+
+---
+
+
 
 ---
 
