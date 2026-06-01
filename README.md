@@ -5,17 +5,6 @@ This capstone project is the final component of the **IBM Data Analyst Professio
 
 ---
 
-## Dashboards
-
-### 1. Current Technology Usage
-![Current Technology Usage](dashboard_page1.png)
-
-### 2. Future Technology Trend
-![Future Technology Trend](dashboard_page2.png)
-
-### 3. Demographics
-![Demographics](dashboard_page3.png)
-
 ---
 
 ## Key Findings
@@ -80,24 +69,6 @@ ibm-data-analyst-capstone/
 │   ├── dashboard_page2.png      # Future Technology Trends
 │   └── dashboard_page3.png      # Demographics
 └── README.md
-```
-
----
-
-## How to Run
-1. Clone this repository
-   ```bash
-   git clone https://github.com/your-username/ibm-data-analyst-capstone.git
-   ```
-2. Install required libraries
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-3. Open Jupyter Notebook
-   ```bash
-   jupyter notebook
-   ```
-4. Run notebooks in order starting from `01_data_collection.ipynb`
 
 ---
 
